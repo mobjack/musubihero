@@ -1,0 +1,26 @@
+[
+    {
+        "useremail": "main_username@gmail.com",
+        "user_id": "somerandom ID",
+        "musubi-junk": "musubi-junk",
+        "musubi-ok": "musubi-ok",
+        "accounts": [
+            {
+                "email": "email1@gmail.com",
+                "cred": "password to email1",
+                "imap_url": "imap.gmail.com",
+                "inbox": "INBOX",
+                "spambox": "[Gmail]/Spam",
+                "enabled": true
+            },
+            {
+                "email": "email2@outlook.com",
+                "cred": "password to email2",
+                "imap_url": "outlook.office365.com",
+                "inbox": "Inbox",
+                "spambox": "Junk",
+                "enabled": true
+            }
+        ]
+    }
+]
