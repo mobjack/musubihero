@@ -144,6 +144,7 @@ cython_debug/
 # Musubi
 data/*.pkl
 data/*.json
+logs/*.jsonl
 config/creds.json
-config/creds-copy.json
+config/creds-*.json
 v1/

@@ -73,7 +73,7 @@ class junknotjunk():
                     email_stats['total'] += 1
                     break
 
-        if email_stats['total'] >= 2:
+        if email_stats['total'] >= 3:
             email_stats['is_junk'] = True
 
         return (email_stats)
